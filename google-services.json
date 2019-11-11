@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258841522904",
+    "firebase_url": "https://album-the-gathering.firebaseio.com",
+    "project_id": "album-the-gathering",
+    "storage_bucket": "album-the-gathering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258841522904:android:8e60f2c01eec8c65ab9dad",
+        "android_client_info": {
+          "package_name": "com.example.magicthealbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258841522904-36bbafs73i1ckeg7lgijs26ndu1117ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKBv_JCRRQ2DnKv2aFQZqBPkZvbXOS_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258841522904-36bbafs73i1ckeg7lgijs26ndu1117ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
